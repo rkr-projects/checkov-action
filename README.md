@@ -9,7 +9,6 @@ Github action for running the Checkov against terraform code
 ```
 
 # Inputs
-# Inputs
 | Input Name               | Description              | Type     | Required | Default |
 |--------------------------|--------------------------|----------|----------|---------|
 | infrastructure-directory | Infrastructure directory | `string` | No       | `.`     |
