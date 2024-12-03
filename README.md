@@ -5,7 +5,7 @@ Github action for running the Checkov against terraform code
 # Usage
 ```yaml
 - name: Run Checkov
-- uses: rkr-projects/checkov-action@V1.0
+  uses: rkr-projects/checkov-action@V1.0
 ```
 
 # Inputs
